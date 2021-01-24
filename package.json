@@ -1,0 +1,24 @@
+{
+  "name": "lab01_101217272",
+  "version": "1.0.0",
+  "description": "nodejs file system labexercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljingGBC/comp3133_labExercise01.git"
+  },
+  "keywords": [
+    "nodejs",
+    "file",
+    "system"
+  ],
+  "author": "Lei Jing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljingGBC/comp3133_labExercise01/issues"
+  },
+  "homepage": "https://github.com/ljingGBC/comp3133_labExercise01#readme"
+}
